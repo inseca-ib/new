@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GitHub Repository Feed</title>
+    <link>https://github.com/inseca-ib/new</link>
+    <description>Feed for inseca-ib/new repository</description>
+    <item>
+      <title>catolog</title>
+      <link>https://github.com/inseca-ib/new/blob/main/catolog</link>
+      <description>GitHub repository path: catolog</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
