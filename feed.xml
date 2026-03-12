@@ -293,6 +293,29 @@
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
             </offer>
+
+             <offer id="14" available="true">
+                <name>Security Awareness</name>
+                <url>https://inseca.tech/security-awareness-training?utm_source=habr</url>
+                <price>72000</price>
+                <oldprice>97000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-06-26</param>
+                <duration unit="week">4</duration>
+                <skills>
+                    <skill id="1">Повышение осведомленности сотрудников</skill>
+                    <skill id="2">Развитие осознанного поведение сотрудников</skill>
+                    <skill id="3">Снижение числа инцидентов, вызванных человеческим фактором</skill>
+                </skills>
+                <description>Практический курс повышения осведомленности сотрудников и культуры безопасности. Курс для развития осознанного поведение сотрудников и снижения числа инцидентов, вызванных человеческим фактором.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
         </offers>
     </shop>
 </yml_catalog>
