@@ -16,7 +16,7 @@
                 <oldprice>97000</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
-                <param name="Дата начала">2026-05-22</param>
+                <param name="Дата начала">2026-11-13</param>
                 <duration unit="week">6</duration>
                 <skills>
                     <skill id="1">Киберразведка</skill>
@@ -126,7 +126,7 @@
                 <oldprice>102000</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
-                <param name="Дата начала">2026-05-29</param>
+                <param name="Дата начала">2026-10-16</param>
                 <duration unit="week">9</duration>
                 <skills>
                     <skill id="1">Инцидент-респонс Linux</skill>
