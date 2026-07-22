@@ -316,6 +316,29 @@
                 <param name="Выдаётся сертификат">Да</param>
                 <param name="Помощь с трудоустройством">Нет</param>
             </offer>
+
+             <offer id="15" available="true">
+                <name>Обеспечение безопасности критической информационной инфраструктуры</name>
+                <url>https://inseca.tech/obespechenie-bezopasnosti-kii?utm_source=habr</url>
+                <price>64800</price>
+                <oldprice>72000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">уточняется</param>
+                <duration unit="week">7</duration>
+                <skills>
+                    <skill id="1">Категорирование объектов КИИ с созданием необходимой документации</skill>
+                    <skill id="2">Формирование навыков выбора защитных мер для объектов КИИ и способов их реализации</skill>
+                    <skill id="3">Построение системы обеспечения ИБ в соответствии с требованиями, установленными несколькими нормативными актами</skill>
+                </skills>
+                <description>Практический курс по обеспечению безопасности критической информационной инфраструктуры. Научитесь выстраивать систему обеспечения ИБ в соответствии с установленными требованиями.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
         </offers>
     </shop>
 </yml_catalog>
