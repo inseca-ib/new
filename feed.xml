@@ -40,7 +40,7 @@
                 <oldprice>102000</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
-                <param name="Дата начала">2026-09-04</param>
+                <param name="Дата начала">2027-03-12</param>
                 <duration unit="week">5</duration>
                 <skills>
                     <skill id="1">Выявление аномалий</skill>
@@ -184,7 +184,7 @@
                 <oldprice>136000</oldprice>
                 <currencyId>RUB</currencyId>
                 <specialization>Программирование и IT</specialization>
-                <param name="Дата начала">2026-11-04</param>
+                <param name="Дата начала">2027-03-12</param>
                 <duration unit="month">3</duration>
                 <skills>
                     <skill id="1">Безопасная разработка</skill>
